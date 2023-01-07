@@ -1,6 +1,6 @@
-The Excel file contains data of a call-center company.
+The Excel file contains data from a call-center company.
 The growth team of the company buys data from the market and hands it over to the calling team.
-The calling team takes these numbers and start dialing.
+The calling team takes these numbers and starts dialing.
 One calling attempt is called One call. There might be a chance the customer might not pick up the call - RnR
 If the customer picks, then the caller starts selling the products - Connected Calls
 There can be 2 possibilities when a customer picks up the call 
@@ -9,7 +9,7 @@ There can be 2 possibilities when a customer picks up the call
 
 
 
-Used Buisness Metric are:
+Used Business Metric are:
 
 1. No of Calls
 2. %RnR  = RnR/Total Calls
@@ -18,11 +18,11 @@ Used Buisness Metric are:
 5. Revenue & AOV
 
 The Dashboard Contains:
-To get a quick status of the buisness, I displayed Total Revenue, Callers, Calls, RnR, Conversions.
+To get a quick status of the business, I displayed Total Revenue, Callers, Calls, RnR and Conversions.
 
-Heat Map to show distribution of sales across the world.
+Heat Map to show the distribution of sales across the world.
 Month on Month revenue contribution country-wise.
-Combo Chart to show order and conversion numbers at date level.
-Revenue distribution across category.
-Total calls vs RnR trend in combo chart.
-Used form controls and dynamic ranges to display salary of callers in a bar chart.
+Combo Chart to show order and conversion numbers at the date level.
+Revenue distribution across categories.
+Total calls vs RnR trend in a combo chart.
+Used form controls and dynamic ranges to display the salary of callers in a bar chart.
